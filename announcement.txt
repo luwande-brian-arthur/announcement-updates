@@ -1,11 +1,1 @@
-WiFi Network Name Update
-
-Effective immediately:
-
-Quick-Net and Kas-Link have been renamed to labmej.net.
-
-Existing access codes remain valid. Reconnect to labmej.net and re-enter your code.
-
-If your code fails, kindly visit your reseller for assistance.
-
-We apologize for any inconvenience and appreciate your understanding.
+We will be performing a system upgrade that may interrupt service for approximately 30 minutes. This will occur from 11:00 PM to 11:30 PM. We apologize for any inconvenience caused
